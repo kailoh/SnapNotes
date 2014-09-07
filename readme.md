@@ -1,0 +1,1 @@
+SnapNotes, a convenient way for you to store the things you need to remember as photos
